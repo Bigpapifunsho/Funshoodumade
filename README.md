@@ -117,15 +117,6 @@ Here are some examples of visualizations you can include:
 
 ---
 
-### **8. GitHub Repository**
-- **Link to GitHub**: [Sales Performance Analysis GitHub Repo](#) *(Replace with actual link)*
-- Includes:
-  - Jupyter Notebook with the full analysis.
-  - Cleaned dataset.
-  - Visualizations and dashboards.
-
----
-
 ## Conclusion
 
 ### **Why This Works**
