@@ -106,7 +106,8 @@ Here are some examples of visualizations you can include:
 
 3. **Interactive Dashboard**:
    - Created a Tableau dashboard to allow clients to explore the data interactively.
-   - [Link to Tableau Dashboard](#) *(Replace with actual link)*
+![17416105892351330614566065709137](https://github.com/user-attachments/assets/4202501b-edc6-400d-86aa-0b50ba3b985f)
+
 
 ---
 
