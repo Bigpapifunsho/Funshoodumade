@@ -89,7 +89,8 @@ Here are some examples of visualizations you can include:
    plt.ylabel('Sales ($)')
    plt.show()
    ```
-   ![Monthly Sales Trend](https://via.placeholder.com/600x400) *(Replace with actual visualization)*
+   ![17416083371346452788257552077334](https://github.com/user-attachments/assets/4a88e582-6655-472a-ac36-d3c0253d2f74)
+
 
 2. **Profitability by Product Category**:
    ```python
