@@ -10,7 +10,8 @@ The goal of this project is to analyze the sales performance of an e-commerce bu
 ---
 
 ### **2. Data Source**
-[](images(10).jpeg)
+![17416042020997471377483483215013](https://github.com/user-attachments/assets/59ddf362-567c-474d-a1b4-df539155a099)
+
 - **Dataset**: Publicly available e-commerce sales data from [Kaggle](https://www.kaggle.com).
 - **Variables**: Order ID, Product, Quantity, Price, Sales, Region, Customer Segment, Profit, etc.
 
