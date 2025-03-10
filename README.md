@@ -101,7 +101,8 @@ Here are some examples of visualizations you can include:
    plt.ylabel('Profit ($)')
    plt.show()
    ```
-   ![Profitability by Product Category](https://via.placeholder.com/600x400) *(Replace with actual visualization)*
+   ![17416090780361208481704618136028](https://github.com/user-attachments/assets/899e1e5a-0d48-422a-a1a6-5bdefb010e0a)
+
 
 3. **Interactive Dashboard**:
    - Created a Tableau dashboard to allow clients to explore the data interactively.
